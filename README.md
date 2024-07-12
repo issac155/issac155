@@ -31,6 +31,8 @@ I'm a Full Stack and Mobile App Developer passionate about creating seamless and
 ### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat-square&logo=cpanel)
+![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-black?style=flat-square&logo=python)
 
 
 
