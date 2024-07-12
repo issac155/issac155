@@ -2,8 +2,6 @@
 
 I'm a Full Stack and Mobile App Developer passionate about creating seamless and efficient digital solutions. I love working on projects that bridge the gap between backend and frontend, delivering exceptional user experiences.
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
 
 ## About Me
 
