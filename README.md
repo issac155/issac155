@@ -10,7 +10,7 @@ I'm a Full Stack and Mobile App Developer passionate about creating seamless and
 - 👯 I’m looking to collaborate on full stack projects and mobile applications.
 - 🤔 I’m looking for help with integrating machine learning models into mobile apps.
 - 💬 Ask me about React, Django, and Flutter.
-- 📫 How to reach me: mmissac75@gmail.com(mailto:mmissac75@gmail.com)
+- 📫 How to reach me: mmissac75@gmail.com
 - ⚡ Fun fact: I'm a huge fan of sci-fi movies and love exploring new technologies.
 
 ## Technologies & Tools
@@ -40,5 +40,5 @@ I'm a Full Stack and Mobile App Developer passionate about creating seamless and
 
 ## Contact
 
-- Email: mmissac75@gmail.com(mailto:mmissac75@gmail.com)
-- LinkedIn: [Issac-linked-in(https://www.linkedin.com/in/issac-mm/)
+- Email: mmissac75@gmail.com
+- LinkedIn: https://www.linkedin.com/in/issac-mm/
