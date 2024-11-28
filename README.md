@@ -24,7 +24,7 @@ I'm a Software Engineer passionate about creating seamless and efficient digital
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Django](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
