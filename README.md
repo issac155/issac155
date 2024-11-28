@@ -41,22 +41,6 @@ I'm a **Software Engineer** passionate about creating **seamless and efficient d
 
 Let's collaborate and **build something amazing** together! 🌟
 
----
 
-## 📈 Fun Stats
-
-![Issac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=issac-mm&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
-
----
-
-## 🏆 Achievements
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issac-mm&langs_count=10&layout=compact&theme=radical)
-
----
-
-> "The future belongs to those who believe in the beauty of their dreams." - **Eleanor Roosevelt**
-
----
 
 Let's connect and make the **web and mobile world a better place**! 🌍
