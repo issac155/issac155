@@ -1,46 +1,62 @@
-# Hi there, I'm Issac 👋
+# 👋 Hi, I'm Issac!
 
-I'm a Software Engineer passionate about creating seamless and efficient digital solutions. I love working on projects that bridge the gap between backend and frontend, delivering exceptional user experiences.
+I'm a **Software Engineer** passionate about creating **seamless and efficient digital solutions**. I specialize in bridging the gap between **backend** and **frontend** to deliver **exceptional user experiences**.
 
+---
 
-## About Me
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on a cross-platform mobile app using Flutter.
-- 🌱 I’m currently learning advanced backend architecture and cloud solutions.
-- 👯 I’m looking to collaborate on full stack projects and mobile applications.
-- 🤔 I’m looking for help with integrating machine learning models into mobile apps.
-- 💬 Ask me about React, Django, and Flutter.
-- 📫 How to reach me: mmissac75@gmail.com
-- ⚡ Fun fact: I'm a huge fan of sci-fi movies and love exploring new technologies.
+- 🔭 **Current Project**: Developing a **cross-platform mobile app** with **Flutter**.
+- 🌱 **Learning**: Exploring **advanced backend architecture** and **cloud solutions**.
+- 👯 **Collaborating On**: Full-stack development and mobile applications.
+- 🤔 **Looking for Help With**: Integrating **machine learning models** into mobile apps.
+- 💬 **Ask Me About**: **React**, **Django**, **Flutter**.
+- ⚡ **Fun Fact**: Sci-fi movie enthusiast 🚀 and passionate about exploring **new technologies**.
 
-## Technologies & Tools
+---
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+## 🛠 Technologies & Tools
+
+### **Frontend Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
+### **Backend Development**
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+
+### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 
-### Backend
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat-square&logo=cpanel) ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-black?style=flat-square&logo=python)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+---
 
-### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+## 🌐 Contact Me
 
-### DevOps & Tools
+- 📧 **Email**: [mmissac75@gmail.com](mailto:mmissac75@gmail.com)
+- 🔗 **LinkedIn**: [Issac's LinkedIn](https://www.linkedin.com/in/issac-mm/)
+- 🧑‍💻 **Leetcode**: [Issac on Leetcode](https://leetcode.com/u/issac155/)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat-square&logo=cpanel)
-![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-black?style=flat-square&logo=python)
+---
 
+Let's collaborate and **build something amazing** together! 🌟
 
+---
 
+## 📈 Fun Stats
 
+![Issac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=issac-mm&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
 
-## Contact
+---
 
-- Email: mmissac75@gmail.com
-- LinkedIn: https://www.linkedin.com/in/issac-mm/
-- Leetcode: https://leetcode.com/u/issac155/
+## 🏆 Achievements
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issac-mm&langs_count=10&layout=compact&theme=radical)
+
+---
+
+> "The future belongs to those who believe in the beauty of their dreams." - **Eleanor Roosevelt**
+
+---
+
+Let's connect and make the **web and mobile world a better place**! 🌍
