@@ -1,6 +1,6 @@
 # Hi there, I'm Issac 👋
 
-I'm a Full Stack and Mobile App Developer passionate about creating seamless and efficient digital solutions. I love working on projects that bridge the gap between backend and frontend, delivering exceptional user experiences.
+I'm a Software Engineer passionate about creating seamless and efficient digital solutions. I love working on projects that bridge the gap between backend and frontend, delivering exceptional user experiences.
 
 
 ## About Me
